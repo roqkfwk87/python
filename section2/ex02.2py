@@ -1,0 +1,28 @@
+"""
+1 name = 'Alice'
+2 age = 25
+3 address = ''' 우편번호 12345
+4 부산 서면
+5 코리아아이티아카데미
+6 '''
+7 boyfriend = None
+8 height = 168.5
+
+print(name)
+print(age)
+print(address)
+print(boyfriend)
+print( height)
+'''
+
+a = '''a
+b
+c
+'
+'''
+e
+f
+"""
+
+print(a)
+print(b)
